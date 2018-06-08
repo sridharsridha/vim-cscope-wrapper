@@ -21,8 +21,7 @@ For vim-plug
 Manual Install
 Take a clone of the repro directly to `~/.vim/` folder
 ```
-git clone https://github.com/sridharsridha/vim-cscope-wrapper.git
-~/.vim/
+git clone https://github.com/sridharsridha/vim-cscope-wrapper.git ~/.vim/
 ```
 
 # Usage
