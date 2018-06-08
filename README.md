@@ -1,8 +1,15 @@
 # vim-cscope-wrapper
-A cscope wrapper for vim (Supports version > 7.0).
+A cscope wrapper for vim (Supports version > 7.0) in Unix/Linux/MacOSX
 
 # Desciption
 Plugin to generate and load cscope database.
+
+# Requirements
+* ctags
+* cscope
+
+Kindly install ctags and cscope for your platform and add it to your
+env PATH variable
 
 # Installation
 Kindly use any of your prefered plugin manager to install this
